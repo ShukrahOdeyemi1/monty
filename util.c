@@ -121,4 +121,4 @@ int _isdigit(char *string)
 			return (1);
 	}
 	return (0);
-}l
+}
