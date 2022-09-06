@@ -17,7 +17,8 @@ Monty byte code files
 Files containing Monty byte codes usually have the .m extension. Most of the industry uses this standard but it is not required by the specification of the language.
 
 Authors
-Ubochi Luggard Uzochukwu
+Shukrah Odeleke
+Babajide Odunusi 
 
 Releases
 No releases published
